@@ -1,5 +1,11 @@
 # CRUD with Nodejs, Express and MongoDB
-![](docs/screenshot.png)
 
-![](docs/update.png)
+<p>
+   <img src='./screenshot.png' />
+</p>
+
+<p>
+   <img src='./update.png' />
+</p>
+
 
